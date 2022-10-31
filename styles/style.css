@@ -23,6 +23,11 @@ body {
     width: 50%;
 }
 
+.highlight {
+    color: crimson;
+    font-size: 2rem;
+}
+
 header,
 footer {
     background-color: #35a7ff;

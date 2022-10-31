@@ -15,6 +15,14 @@ body {
 
 }
 
+
+
+.main-content {
+    background-color: #ffe74c;
+    padding: 48px;
+    width: 50%;
+}
+
 header,
 footer {
     background-color: #35a7ff;

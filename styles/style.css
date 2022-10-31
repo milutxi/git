@@ -1,0 +1,28 @@
+html {
+    height: 100vh;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin: 0;
+
+}
+
+header,
+footer {
+    background-color: #35a7ff;
+    color: #ffffff;
+    padding: 48px;
+    text-align: center;
+}
+
+main {
+    flex-grow: 1;
+}
